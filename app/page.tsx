@@ -8,7 +8,7 @@ export default function Home() {
         This is a Solana Blink example for transferring SOL.
       </p>
       <Link
-        href="solana-action:https://your-domain.com/api/actions/transfer-sol"
+        href="solana-action:https://https://blink-kappa.vercel.app/api/actions/transfer-sol"
         className="text-blue-500 underline"
       >
         Try the Blink
