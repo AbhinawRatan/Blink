@@ -17,13 +17,17 @@ A simple Solana Blink that allows users to transfer SOL directly from Twitter or
 git clone [https://github.com/Dksie09/Blink.git](https://github.com/Dksie09/Blink.git)
 Copy
 2. Install dependencies
+```
 cd solana-blink
 npm install
-Copy
+```
+
 3. Run the development server
+```
 npm run dev
-Copy
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+
+5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## 📚 Learn More
 
