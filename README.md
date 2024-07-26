@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Solana Blink: Transfer SOL
 
-## Getting Started
+![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
-First, run the development server:
+A simple Solana Blink that allows users to transfer SOL directly from Twitter or compatible wallets.
 
-```bash
+## 🌟 Features
+
+- Transfer SOL to any Solana address
+- Predefined amounts (1 SOL, 5 SOL) or custom amount
+- Seamless integration with Twitter and compatible wallets
+
+## 🛠️ Quick Start
+
+1. Clone the repo
+git clone [https://github.com/Dksie09/Blink.git](https://github.com/Dksie09/Blink.git)
+Copy
+2. Install dependencies
+cd solana-blink
+npm install
+Copy
+3. Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Copy
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📚 Learn More
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For a detailed guide on creating this Blink and understanding Solana Actions, check out my [blog post](https://duckwhocodes.hashnode.dev/everything-you-need-to-know-about-blinks).
